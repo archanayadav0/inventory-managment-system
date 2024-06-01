@@ -10,6 +10,7 @@ from sales import salesClass
 from billing import BillClass
 import os
 import time
+# classes for inventory management system
 class IMS:
     def __init__(self,root):
         self.root=root
